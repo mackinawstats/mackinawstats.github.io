@@ -3,7 +3,7 @@ author:
   name: Mackinaw Stats
   email: mackinawstats@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  This is a site featuring interactive data visuals and data-driven essays, and other stuff.
+  Interactive hockey viz.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
