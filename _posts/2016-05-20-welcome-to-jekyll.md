@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-Here's some test post.
+<p>Here's some test post.</p>
 
 <meta charset="utf-8">
 
