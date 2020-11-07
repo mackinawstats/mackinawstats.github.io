@@ -20,3 +20,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<iframe width="100%" height="767" frameborder="0"
+  src="https://observablehq.com/embed/@hockeyfan22/nhl-salary-cap?cell=viewof+dd1&cell=chart"></iframe>
