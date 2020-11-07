@@ -7,6 +7,9 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
+<iframe width="100%" height="767" frameborder="0"
+  src="https://observablehq.com/embed/@hockeyfan22/nhl-salary-cap?cell=viewof+dd1&cell=chart"></iframe>
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
@@ -21,5 +24,3 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-<iframe width="100%" height="767" frameborder="0"
-  src="https://observablehq.com/embed/@hockeyfan22/nhl-salary-cap?cell=viewof+dd1&cell=chart"></iframe>
